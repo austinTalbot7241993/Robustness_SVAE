@@ -15,6 +15,9 @@ can be used. This will be similar to the scripts in UnitTests, except it
 will be nicely formatted so that anyone can understand how to use these 
 scripts with minimal python experience.
 
+Experiments - this directory contains the experimental results in the 
+submitted paper, largely python notebooks to enhance readiblity
+
 UnitTests - this directory has a list of unit tests to ensure proper 
 functioning of the code. These are example scripts where the behavior is
 known by default to ensure proper functioning of any code 
