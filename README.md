@@ -1,4 +1,4 @@
-# Robustnes SVAE
+# The Origins of Predictive Robustness in SVAEs
 
 This is the repository associated with a paper currently in preparation and soon to be submitted. This paper analyzes the robustness properties observed in supervised variational autoencoders
 
